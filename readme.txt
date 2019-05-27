@@ -39,5 +39,8 @@ Go to <a href="https://bbvapormodules.com/modules/">our modules section</a> to s
 
  == Upgrade Notice ==
 
+= 1.0.5 =
+Added Features Category module. Added ability to pop up Instagram modules in a lightbox. Added ability to make Instagram modules background images. Cleaned up Post Select module.
+
 = 1.0.0 =
 Initial release.
