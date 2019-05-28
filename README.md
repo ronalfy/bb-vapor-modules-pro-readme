@@ -1,5 +1,4 @@
-Vapor Modules for Beaver Builder
-=========
+## Vapor Modules for Beaver Builder
 #### Tags: beaver builder, beaver builder modules, beaverbuilder
 #### Requires at least: 4.9
 #### Tested up to: 5.2
@@ -10,26 +9,25 @@ Vapor Modules for Beaver Builder
 
 A growing list of Beaver Builder modules.
 
-Description
----------
+## Description
 
 A growing list of Beaver Builder modules.
 
-Installation
----------
+## Installation
+
 
 1. Go to Plugins->Add New in your WordPress Dashboard and go to Plugins->Add New->Upload plugin.
 
 2. Make sure Beaver Builder is installed
 
-FAQ
----------
+##FAQ
 
-### Where can I find documentation or examples on the modules?
+
+#### Where can I find documentation or examples on the modules?
 
 Go to <a href="https://bbvapormodules.com/modules/">our modules section</a> to see a demonstration of all the modules.
 
-### Changelog
+## Changelog
 
 #### 1.0.7
 * Added Dynamic Soliloquy module
