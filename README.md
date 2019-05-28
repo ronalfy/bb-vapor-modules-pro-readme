@@ -3,7 +3,7 @@
 #### Requires at least: 4.9
 #### Tested up to: 5.2
 #### Requires PHP: 5.6
-#### Stable tag: 1.0.7
+#### Stable tag: 1.0.9
 #### License: GPLv2 or later
 #### License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ A growing list of Beaver Builder modules.
 Go to <a href="https://bbvapormodules.com/modules/">our modules section</a> to see a demonstration of all the modules.
 
 ## Changelog
+
+#### 1.0.9
+* Added User Profile module
 
 #### 1.0.7
 * Added Dynamic Soliloquy module
